@@ -61,7 +61,7 @@ topicos-deteccion-diabetes/
 
 👨‍💻 Autores:
 - [González Davila, Milder](https://github.com/MilderGonzalezDavila)
-- [Ispilco Quispe John Enderson]((https://github.com/Enderi8)
+- [Ispilco Quispe John Enderson](https://github.com/Enderi8)
 - [Molina Campos Jak Steve](https://github.com/jmolinac23)
 - [Ruiz Rudas Luis Manuel](https://github.com/louisruiztv)
 - [Vásquez Chunque José Manuel](https://github.com)
