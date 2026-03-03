@@ -1,0 +1,26 @@
+{
+  "type": "record",
+  "name": "customers",
+  "fields": [
+    {"name": "customerID", "type": ["string", "null"]},
+    {"name": "gender", "type": ["string", "null"]},
+    {"name": "SeniorCitizen", "type": ["int", "null"]},
+    {"name": "Partner", "type": ["string", "null"]},
+    {"name": "Dependents", "type": ["string", "null"]},
+    {"name": "tenure", "type": ["int", "null"]},
+    {"name": "PhoneService", "type": ["string", "null"]},
+    {"name": "MultipleLines", "type": ["string", "null"]},
+    {"name": "InternetService", "type": ["string", "null"]},
+    {"name": "OnlineSecurity", "type": ["string", "null"]},
+    {"name": "OnlineBackup", "type": ["string", "null"]},
+    {"name": "DeviceProtection", "type": ["string", "null"]},
+    {"name": "TechSupport", "type": ["string", "null"]},
+    {"name": "StreamingTV", "type": ["string", "null"]},
+    {"name": "StreamingMovies", "type": ["string", "null"]},
+    {"name": "PaperlessBilling", "type": ["string", "null"]},
+    {"name": "PaymentMethod", "type": ["string", "null"]},
+    {"name": "MonthlyCharges", "type": ["double", "null"]},
+    {"name": "TotalCharges", "type": ["string", "null"]},
+    {"name": "Churn", "type": ["string", "null"]}
+  ]
+}
