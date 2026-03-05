@@ -4,9 +4,9 @@ import pandas as pd
 def consultar_fuga_clientes():
     # 1. Configuración de conexión a MongoDB
     # Se utiliza la base de datos especificada: topicosa_workload
-    client = MongoClient('mongodb://localhost:27017/')
-    db = client['topicosa_workload']
-    collection = db['fuga_clientes']
+    client = MongoClient('mongodb://172.27.192.1:27017/')
+    db = client['medalloncustomers'] 
+    collection = db['gold_churn']    
 
     print("--- Verificando persistencia en MongoDB ---")
 
